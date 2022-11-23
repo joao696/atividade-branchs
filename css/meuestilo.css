@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+
+.fieldset{
+    width:300px;
+    height:500px;
+    background:linear-gradient(to top right,rgb(95,196,0),rgba(154,248,66,0.884),rgba(182,255,113,0.877),rgb(255,255,255));
+}
